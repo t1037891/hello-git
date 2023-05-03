@@ -1,2 +1,4 @@
 # hello-git
-Meu primeiro repositório do GitHub
+Meu primeiro repository no GitHub
+
+### Camila Ribeiro Souza
